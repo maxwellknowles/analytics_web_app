@@ -1,12 +1,9 @@
 altair
 df2gspread
 geopy
-google_api_python_client
-google_auth_oauthlib
 gspread
 matplotlib
 numpy
-oauth2client
 pandas
 pixiedust
 plot
