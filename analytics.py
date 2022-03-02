@@ -20,8 +20,8 @@ orders = pd.read_csv("https://raw.githubusercontent.com/maxwellknowles/analytics
 merch_data = pd.read_csv("https://raw.githubusercontent.com/maxwellknowles/analytics_web_app/main/Analytics%20Web%20App%20-%20Vendors-Category-Item.csv")
 orders_items_data = pd.read_csv("https://raw.githubusercontent.com/maxwellknowles/analytics_web_app/main/Analytics%20Web%20App%20-%20Orders-Items.csv")
 refunds_today = pd.read_csv("https://raw.githubusercontent.com/maxwellknowles/analytics_web_app/main/Analytics%20Web%20App%20-%20Refunds.csv")
-#refunds_items_7days = pd.read_csv("https://raw.githubusercontent.com/maxwellknowles/eikona/main/coinbase_users.csv")
-#refunds_items_location_7days = pd.read_csv("https://raw.githubusercontent.com/maxwellknowles/eikona/main/Analytics%20Web%20App%20-%20Lat-Lon.csv")
+#refunds_items_7days
+#refunds_items_location_7days
 lat_long = pd.read_csv("https://raw.githubusercontent.com/maxwellknowles/analytics_web_app/main/LatLon.csv")
 
 #data selection
