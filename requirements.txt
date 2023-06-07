@@ -11,7 +11,7 @@ protobuf
 pydeck
 pymongo
 pyspark
-streamlit==0.84.2
+streamlit
 python-dotenv
 scikit_learn
 kneed
