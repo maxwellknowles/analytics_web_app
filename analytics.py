@@ -339,7 +339,7 @@ elif choose == 'Order Distribution & Metrics':
     elevation_scale=20,
     elevation_range=[0, 1000],
     pickable=True,
-    #extruded=True,
+    extruded=True,
     ),],))
 
     st.subheader("Los Angeles")
@@ -361,7 +361,7 @@ elif choose == 'Order Distribution & Metrics':
     elevation_scale=20,
     elevation_range=[0, 1000],
     pickable=True,
-    #extruded=True,
+    extruded=True,
     ),],))
 
     st.header('Orders Breakdown')
